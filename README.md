@@ -1,4 +1,4 @@
-# Hi 👋
+# Hello 👋
 - 🎯 I’m currently learning flutter.
 - 📫 How to reach me: nithindileep6282@gmail.com
 <p align="center">
