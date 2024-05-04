@@ -2,7 +2,7 @@
 - 🎯 I’m currently learning flutter.
 - 📫 How to reach me: nithindileep6282@gmail.com
 <p align="center">
-<a href="https://www.linkedin.com/in/nithinpd/" target="blank"><img align="center" src="https://ibb.co/n3BRkL8&logo=linkedin&logoColor=white" alt="Nithin"/></a>
+<a href="https://www.linkedin.com/in/nithinpd/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nithin"/></a>
   </p>
 <br>
 <p>
